@@ -20,6 +20,14 @@ This project is focused on analyzing apartment prices in Poland, both for rental
 * Search Functionality: Developed an interactive search feature using a dynamic map, enabling users to filter and locate apartments based on criteria such as location, price range, and type (rentals or sales).
 * Dashboard Creation: Developed a dashboard for analyzing apartment market data, enabling easy comparison of trends and prices across different locations.
 
+## Overview of sales and rentals
+![Overview of sales](PowerBi_screenshots/Overview%20of%20sales.JPG)
+
+![Overview of sales](PowerBi_screenshots/Overview%20of%20rentals.JPG)
+
+## Detailed market analysis
+![Detailed market analysis](PowerBi_screenshots/Detailed%20market%20analysis.JPG)
+
 ## Conclusion
 This project provides a comprehensive analysis of the apartment market in Poland, combining data transformation, SQL queries, and interactive visualizations. The final dashboard offers valuable insights into market trends, helping users to make informed decisions based on detailed comparisons of rental and sales prices across various cities.
 
