@@ -1,0 +1,3 @@
+*.sql linguist-detectable=true
+*.bpix linguist-vendored=false
+*.sln linguist-vendored=false
