@@ -1,4 +1,1 @@
-*.sql linguist-detectable=true
-*.pbix linguist-vendored=false
-*.pbix linguist-detectable=true
-*.pbix linguist-language=PowerBI
+*.sql linguist-language=TSql
